@@ -20,4 +20,4 @@ Abrir el notebook en Google Colab y seleccionar **Entorno de ejecución > Ejecut
 
 ## Autor
 
-[Nombre del estudiante] — Maestría en Estadística Aplicada.
+Ing. Pedro Said Vara Chacón — Maestría en Estadística Aplicada.
